@@ -25,6 +25,10 @@
 - **Recommended**
   - Apple Care
   - 2nd monitor
+- **Software**
+  - Adobe Creative Cloud licence: Through **Digital Resources** Link on BS LMS home page.
+  - Windows 10 copy through MAD9112 course.
+  - Other software through individual classes.
 - College 10 minute checklist: [https://www.algonquincollege.com/orientation/online-prep/](https://www.algonquincollege.com/orientation/online-prep/)
 
 - Deborah Buck Student Support Specialist - CAL, Gen Ed support, help with RO, bursaries, helping you find the right help

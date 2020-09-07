@@ -79,10 +79,10 @@
 
 - Course websites:
   - [Brightspace LMS](https://brightspace.algonquincollege.com/)
-  - https://mad9011.github.com/F2020/
-  - https://mad9013.github.com/F2020/
-  - https://mad9014.github.com/F2020/
-  - https://mad9112.github.com/F2020/
+  - https://mad9011.github.io/F2020/
+  - https://mad9013.github.io/F2020/
+  - https://mad9014.github.io/F2020/
+  - https://mad9112.github.io/F2020/
   - MAD8010 will have content in BS LMS and delivered through different methods.
 
 ### Q&A session

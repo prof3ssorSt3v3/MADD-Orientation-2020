@@ -15,6 +15,9 @@
   - Over 100 years design and development experience between your level 1 teachers
   - BS LMS, Course website, LinkedIn Learning video tutorials, Steve’s YouTube Channel
 
+- Project-based Assessment, not exam-based.
+- No Co-op, Final Semester Applied Project instead
+
 ### Zoom
 
 - Zoom training for students

@@ -76,7 +76,7 @@
 
 - MAD9014 classes no synchronous classes this week but there is a hybrid part to the course.
   - Week 1 Intro and Hybrid exercises.
-  - MAD9014 video link: []
+  - [MAD9014 Intro Video here](https://mad9014.github.io/F2020/modules/week1/)
 
 ### Course Content
 
